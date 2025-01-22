@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">- Software developer<br>- Mobile developer</h3>
+<h3 align="left">- Softdeving creator<br>- Software developer<br>- Mobile developer</h3>
 
 ###
 
