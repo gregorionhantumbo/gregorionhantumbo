@@ -1,57 +1,42 @@
-<h2 align="left">Hi am Gregorio Nhantumbo</h2>
+<h2 align="left">👋 Hi, I'm Gregório Nhantumbo</h2>
 
-###
+<h3 align="left">
+  👨‍💻 Software Developer & Creator of <strong>Softdeving</strong><br>
+  🌍 Based in Mozambique
+</h3>
 
-<h3 align="left">- Softdeving creator<br>- Software developer</h3>
+<br/>
 
-###
-
-<h1 align="left">Techs</h1>
-
-###
+<h2 align="left">🚀 Technologies & Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </div>
 
-###
+<br/>
 
-<h1 align="left">Stats</h1>
+<h2 align="left">📊 GitHub Stats</h2>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gregorionhantumbo&show_icons=true&count_private=true&theme=gruvbox&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorionhantumbo&layout=compact&langs_count=12&theme=gruvbox&hide_border=false" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gregorionhantumbo&radius=16&theme=chartreuse-dark&area=true&hide_border=false" height="300"/>
+</div>
 
-<h2 align="left">Social media</h2>
+<br/>
 
-###
+<h2 align="left">📫 Connect with me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/greg%C3%B3rio-nhantumbo-537a96282/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gregorionhantumbo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorionhantumbo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gregorionhantumbo&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
